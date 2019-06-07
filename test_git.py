@@ -6,5 +6,9 @@ SITES = [
    "https://test5.com",
    "https://test6.com",
    "https://test7.com",
+   "John Kim",
+   "John Kim",
+   "John Kim",
+   "John Kim",
    "John Kim"
 ]
